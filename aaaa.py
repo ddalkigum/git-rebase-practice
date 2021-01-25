@@ -1,7 +1,6 @@
 def time():
 	print("hi")
 	return None
+이걸로 수정
 
-print("수정")
-print("두번째 수정")
 
